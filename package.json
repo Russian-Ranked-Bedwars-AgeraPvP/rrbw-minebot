@@ -1,7 +1,7 @@
 {
   "name": "rrbw-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "тут бот для майнкрафт сервера , используем mineflayer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,17 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "mineflayer": "^4.26.0",
+    "mineflayer": "^4.27.0",
     "punycode": "^2.3.1",
     "whatwg-url": "^14.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Russian-Ranked-Bedwars-AgeraPvP/rrbw-minebot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Russian-Ranked-Bedwars-AgeraPvP/rrbw-minebot/issues"
+  },
+  "homepage": "https://github.com/Russian-Ranked-Bedwars-AgeraPvP/rrbw-minebot#readme"
 }
